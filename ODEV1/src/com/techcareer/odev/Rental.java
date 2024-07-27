@@ -23,7 +23,7 @@ public class Rental {
         }
     }
 
-    // Yeni metod ekleniyor
+    
     public void printRentalDetails() {
         System.out.println("Kiralama Detaylari:");
         System.out.println("Arac: " + vehicle.getBrand() + " " + vehicle.getModel());
